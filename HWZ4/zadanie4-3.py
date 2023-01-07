@@ -7,7 +7,6 @@
 # out 
 # [4, 5, 3, 3, 4, 1, 2]
 # [5, 1, 2]
-
 # in -1
 # out
 # Negative value of the number of numbers!
